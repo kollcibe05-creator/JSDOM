@@ -4,13 +4,41 @@
 }
 
 header{
-    background-color: aqua;    
+    background-color: aqua;  
+    display: block;  
 }
 main{
     background-color: hsl(0.2,0.2,0.2);
+    display: grid;
+    justify-content: center;
 }
 /* STYLED  IN JS INSTEAD
 .title{
     color: tomato;
 }
     */
+
+#btn:hover {
+background-color: black;
+
+color: white;
+} 
+ 
+
+#delete {
+    background-color: red;
+    margin: 5px 
+}
+form {
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-bottom: 15px;
+    padding: 15px;
+    background-color: grey;
+}
+
+input{
+    margin-top: 15px;
+    margin-bottom: 15px
+}
+
