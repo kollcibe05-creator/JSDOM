@@ -9,3 +9,8 @@ header{
 main{
     background-color: hsl(0.2,0.2,0.2);
 }
+/* STYLED  IN JS INSTEAD
+.title{
+    color: tomato;
+}
+    */
