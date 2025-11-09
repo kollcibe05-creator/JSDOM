@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: aqua;    
+}
+main{
+    background-color: hsl(0.2,0.2,0.2);
+}
